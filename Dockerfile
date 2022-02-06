@@ -1,7 +1,7 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Dark-Maxv1/V4 /root/V4
-WORKDIR /root/V4/
+RUN git clone https://github.com/timashabuddila/M.R-TIMA /root/M.R-TIMA
+WORKDIR /root/M.R-TIMA/
 ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
 RUN yarn install --no-audit
