@@ -9,7 +9,7 @@
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 </p>
 
-  <h1>⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0</h1>
+  <h1>⎝🛡️ QUEEN ALEXA 🛡️⎠ WhatsApp User Bot v4.0.0</h1>
 </div>
 <p align="center">
     World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot
@@ -20,11 +20,6 @@
 </p>
 
 ----
-<div align="center">
-	<h1>Visit our official website to install the Whatsapp Bot</h1>
-	<a href="https://duanf0484.wixsite.com/achi-bro-lk/alpha-bot-service">
-<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
-</div>
 
 ----
 	
@@ -105,7 +100,7 @@ HAVE A FUN!
 </div>
 
 
-## ⎝🛡️ ALPHA 🛡️⎠ Team Offcial
+## ⎝🛡️ ALEXA 🛡️⎠ Team Offcial
 
 <table>
 										<tbody>
