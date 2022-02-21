@@ -1,12 +1,12 @@
 {
-    "name": "⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0 ",
-    "description": "World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot",
-    "logo": "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg",
-    "keywords": ["Achi Bro lk | PG", "ALPHA"],
+    "name": " QUEEN ALEXA WhatsApp User Bot v4.0.0 ",
+    "description": "World  New 2022 Sinhala/English WhatsApp Button Bot Developer Timasha Enjoyeble Our Bot",
+    "logo": "",
+    "keywords": ["Timasha | LB", "QUEEN ALEXA "],
     "stack": "container",
     "env": {
-      "ALPHA_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1.",
+      "QUEEN ALEXA _SESSION": {
+            "description": "Paste your QR session that you got from https://replit.com/@timashatimasha/QUEEN-ALEXA-Qr-Session-2",
             "required": true
         },
         "BUTTON_CMD": {
@@ -24,7 +24,7 @@
         },
         "SONG_DOWNLOAD": {
             "description": "SONG DOWNLOADING MESSAGE",
-            "value": "🖲️.  *ඔබ සෙවූ ගීතය බාගත කරමින් ඇත....*"
+            "value": "🖲️.  *ඔබ ඉල්ලූ ගීතය සොයමින් ඇත...*"
         },
         "VIDEO_UPLOAD": {
             "description": "VIDEO UPLOADING MESSAGE",
@@ -258,7 +258,7 @@
         "CAPTION": {
             "description": "LOGO MAKER CAPTION",
             "required": true,
-            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 ⎝🛡️ ALPHA 🛡️⎠│"
+            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 ⎝🛡️ POWERED BY QUEEN ALEXA│"
         },
         "COFFEEHOUSE_API_KEY": {
             "description": "Give it up. We give you this.",
