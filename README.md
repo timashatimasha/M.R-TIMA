@@ -12,7 +12,7 @@
   <h1> QUEEN ALEXA WhatsApp User Bot v4.0.0</h1>
 </div>
 <p align="center">
-    World best Sinhala/English WhatsApp Button Bot Developer Timasha Enjoy Our Bot
+    World New 2022 Sinhala/English WhatsApp Button Bot Developer Timasha Enjoy Our Bot
     <br>
         <a href="https://chat.whatsapp.com/ESgq5ThSobg4ZGD4pLAGf4">Whatsapp Group</a> |
         
@@ -22,7 +22,7 @@
 ----
 
 ----
-	
+scan bellow tuch the link	
 ### QR CODE
 [![Run on Repl.it]](https://replit.com/@timashatimasha/QUEEN-ALEXA-Qr-Session-2)
 
@@ -93,45 +93,20 @@ HAVE A FUN!
 ```
 
 
-## 📛 WATCH How To Make Sinhala WhatsApp Bot With Full Tutorial || Tutorial 02 || Alpha Wa Bot VIDEO CLICK This Post📛
-<div>
-	<a href="https://www.youtube.com/watch?v=9kJlE9RYKeo">
-<img src="https://telegra.ph/file/3e7b77ce00c3fb8900452.jpg" width="200"></br></a>
-</div>
 
 
-## ⎝🛡️ ALEXA 🛡️⎠ Team Offcial
 
-<table>
 										<tbody>
 											<tr>
-												<td><a href="https://duanf0484.wixsite.com/achi-bro-lk"><img src="https://telegra.ph/file/652c80bc6ca6cefb89971.jpg" width="200" height="200" alt="Achi Fernando"></a></td>
-												<td><a href="https://github.com/Dark-Knight-Hiruwa"><img src="https://telegra.ph/file/75ff82ccd0a33f367159e.jpg" width="200" height="200" alt="Hiruwa"></a></td>
-												<td><a href="https://www.youtube.com/c/PearlYT-JRVSW"><img src="https://telegra.ph/file/165736f2772cc02707c8c.jpg" width="200" height="200" alt="Kasun"></a></td>
+												
 											</tr>
 										</tbody>
 									</table>
                   <table>
 										<tbody>
 											<tr>
-												<td><a href="https://wa.me/94717954374"><img src="https://telegra.ph/file/4786f4988fb4b24912c57.jpg" width="200" height="200" alt="Sanjula"></a></td>
-												<td><a href="https://www.youtube.com/c/TechDeiyo"><img src="https://telegra.ph/file/78760d8588364907312ff.jpg" width="200" height="200" alt="Sanjaana"></a></td>
-                        <td><a href="httsp://github.com/BlackAmda/"><img src="https://telegra.ph/file/ca981c7bba778186bbee0.jpg" width="200" height="200" alt="Thinura"></a></td>
-											</tr>
 									</table>
                   <table>
 										<tbody>
 											<tr>
-												<td><a href="https://www.youtube.com/channel/UCAafO2_JLzGHl_Le7BTkY3A/featured"><img src="https://telegra.ph/file/aeda8f2eaafd13392f1f9.jpg" width="200" height="200" alt="DM bro"></a></td>
-												<td><a href="https://wa.me/94785972996"><img src="https://telegra.ph/file/dff347f2fcfcf64434085.jpg" width="200" height="200" alt="Pasiya"></a></td>
-												<td><a href="https://wa.me/94703164788"><img src="https://telegra.ph/file/3d995871d0857d7475495.jpg" width="200" height="200" alt="paraveen"></a></td>
-											</tr>
-										</tbody>
-									</table>
-
-### License
-This project is protected by the `GNU General Public License v3.0.`
-Do not edit copyright messages!
-
-### Disclaimer
-`WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
+												<td><a 
