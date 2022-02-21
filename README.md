@@ -76,7 +76,7 @@ scan bellow tuch the link
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94784506970">
+  <a href="https://wa.me/94715264791">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Alpha%20Achi%20Fernando-purple&style=plastic">
 
   </a>
@@ -89,18 +89,3 @@ scan bellow tuch the link
 
 
 
-
-										<tbody>
-											<tr>
-												
-											</tr>
-										</tbody>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a 
